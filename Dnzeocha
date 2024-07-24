@@ -1,0 +1,4 @@
+print ("Hello World")
+
+abs(-7)
+min(2,54,6,78,4,25,7)
